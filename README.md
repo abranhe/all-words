@@ -13,7 +13,7 @@
 	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
 	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
 	<a href="https://github.com/abranhe/all-words/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/all-words.svg" /></a>
-	<a href="https://github.com/abranhe/all-words/blob/master/LICENSE"><img src="https://img.shields.io/github/repo-size/abranhe/all-words.svg" /></a>
+	<a href="https://github.com/abranhe/all-words/"><img src="https://img.shields.io/github/repo-size/abranhe/all-words.svg" /></a>
 
 
 </p>
@@ -23,7 +23,7 @@
 - Why not?, lol 😂
 - Clean and focused
 - Actively maintained
-- CLI included
+- [CLI included](#cli)
 - Fast and straightforward
 
 # Install
@@ -147,16 +147,16 @@ Examples
 		--all-four         return array with all words with four letters
 ```
 
+# Related
+
+[r4nd0mstr1ng](https://github.com/abranhe/r4nd0mstr1ng):  random string generator
+
+
 # Team
 
 |[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://19cah.com)|
 | :-: |
 | [Carlos Abraham](https://github.com/abranhe) |
-
-# Related
-
-[r4nd0mstr1ng](https://github.com/abranhe/r4nd0mstr1ng):  random string generator
-
 
 # License
 
