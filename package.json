@@ -1,6 +1,6 @@
 {
   "name": "all-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate all words up to four letters super fast",
   "main": "index.js",
   "scripts": {
