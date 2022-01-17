@@ -93,7 +93,7 @@ Type: `function`
 
 > Return a random word with four letters
 
-**.alpabet**
+**.alphabet**
 
 Type: `array`
 
